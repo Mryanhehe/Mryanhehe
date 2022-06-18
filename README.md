@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello there! 👋🏻 I am Yixuan! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
-<!--
-**Mryanhehe/Mryanhehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Yixuan Yan 🙋🏻‍♂️, First-year master student at Fudan University
 
-Here are some ideas to get you started:
+![Mryanhehe GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Mryanhehe&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mryanhehe) | -->
+
+![Arjun GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mryanhehe)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+---
+
